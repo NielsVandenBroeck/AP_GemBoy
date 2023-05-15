@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLogic.a CMakeFiles/Logic.dir/src/Logic/Camera.cpp.o CMakeFiles/Logic.dir/src/Logic/Stopwatch.cpp.o CMakeFiles/Logic.dir/src/Logic/World.cpp.o CMakeFiles/Logic.dir/src/Logic/LevelHandler.cpp.o CMakeFiles/Logic.dir/src/Logic/Subject.cpp.o CMakeFiles/Logic.dir/src/Logic/LogicEntity.cpp.o CMakeFiles/Logic.dir/src/Logic/Observer.cpp.o
+/usr/bin/ranlib libLogic.a

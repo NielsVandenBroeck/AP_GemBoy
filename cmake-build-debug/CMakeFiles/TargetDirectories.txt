@@ -1,0 +1,4 @@
+/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug/CMakeFiles/Logic.dir
+/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug/CMakeFiles/Project.dir
+/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

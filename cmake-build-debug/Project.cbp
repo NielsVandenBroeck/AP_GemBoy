@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Logic">
+				<Option output="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug/libLogic.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Logic"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Logic/fast">
+				<Option output="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug/libLogic.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Logic/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project">
+				<Option output="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug/Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project/fast">
+				<Option output="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug/Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/c/Users/niels/OneDrive\ -\ Universiteit\ Antwerpen/School\ 2022-2023/AP/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/AbstractFactory.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/Camera.cpp">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/Camera.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/FileException.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/LevelHandler.cpp">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/LevelHandler.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/LogicEntity.cpp">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/LogicEntity.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/Observer.cpp">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/Observer.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/Stopwatch.cpp">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/Stopwatch.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/Subject.cpp">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/Subject.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/World.cpp">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Logic/World.h">
+			<Option target="Logic"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/ConcreteFactory.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/ConcreteFactory.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/Game.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/Game.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/RepresentationEntity.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/RepresentationEntity.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/State.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/State.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/StateManager.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/Representation/StateManager.h">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/src/main.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/niels/OneDrive - Universiteit Antwerpen/School 2022-2023/AP/Project/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
